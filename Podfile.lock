@@ -1,0 +1,22 @@
+PODS:
+  - EasySocialButton (1.0.2)
+  - NVActivityIndicatorView (4.5.1):
+    - NVActivityIndicatorView/Presenter (= 4.5.1)
+  - NVActivityIndicatorView/Presenter (4.5.1)
+
+DEPENDENCIES:
+  - EasySocialButton
+  - NVActivityIndicatorView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EasySocialButton
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  EasySocialButton: 8f2464e11dd5b52d612964243cc899d8fae0f1eb
+  NVActivityIndicatorView: ec34a7b88c51fab270004a1a1f32116e711010cd
+
+PODFILE CHECKSUM: 2c8372aa422850b97d11a96edd9a1db370aa156e
+
+COCOAPODS: 1.5.3
